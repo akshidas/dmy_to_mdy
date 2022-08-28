@@ -1,6 +1,6 @@
 {
   "name": "@akshay-krishna/dmy_to_mdy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "convert date format from DD/MM/YY to MM/DD/YY",
   "license": "MIT",
   "repository": "achu-krishna/dmy_to_mdy",
