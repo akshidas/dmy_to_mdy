@@ -5,15 +5,11 @@
 
 ## Install
 
----
-
 ```bash
 npm i @akshay-krishna/dmy_to_mdy
 ```
 
 ## Usage
-
----
 
 ```js
 const convertDMYToMDY = require("@akshay-krishna/dmy_to_mdy");
